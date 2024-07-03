@@ -1,0 +1,7 @@
+name: ChatMath
+version: 1.0.0
+api: 5.0.0
+author: XanderID
+description: "Math Calculation in Your Chat!"
+main: XanderID\ChatMath\ChatMath
+src-namespace-prefix: XanderID\ChatMath

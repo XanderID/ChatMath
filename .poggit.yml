@@ -1,0 +1,10 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/XanderID/ChatMath
+build-by-default: true
+branches:
+- main
+projects:
+  EconomyEnchant:
+    path: ""
+    icon: "assets/icon.png"
+    lint: false
+...
