@@ -3,7 +3,7 @@ build-by-default: true
 branches:
 - main
 projects:
-  EconomyEnchant:
+  ChatMath:
     path: ""
     icon: "assets/icon.png"
     lint: false
