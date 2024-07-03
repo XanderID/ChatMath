@@ -5,7 +5,7 @@
 The ChatMath Plugin is an essential tool for players who need to perform calculations directly within the game chat.
 
 # How to Use
-![How To Use](https://github.com/XanderID/ChatMath/blob/main/assets/how-to-use.gif)
+![How To Use](https://github.com/XanderID/ChatMath/blob/main/assets/how-to-use.gif)<br>
 Just use it in chat, for example: `1 + 1 is { 1 + 1 }` it will be changed automatically to `1 + 1 is 2`.
 
 ## Full Tutorial
